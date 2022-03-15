@@ -1,10 +1,10 @@
 <h1 align="center">
-  RaphaelScriptHelper 拉斐尔脚本助手
+  RaphaelScriptHelper 普瑞赛斯之眼
   <br>
 </h1>
 
 <p align="center">
-  <b>～轻松编写更智能的游戏脚本～</b>
+  <b>～轻松个性化你的游戏脚本～</b>
   <br>
   <br>
 </p>
