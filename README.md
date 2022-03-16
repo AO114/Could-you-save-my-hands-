@@ -14,11 +14,11 @@
 > 请注意：使用脚本会在一定程度上影响游戏体验，请根据自身需求使用。
 
 
-本项目的命名取自手游[《明日方舟》](https://ak.hypergryph.com/index)中代理作战 <ruby><rt></rt>PRTS<rp>（</rp><rt>Priestess</rt><rp>）</rp></ruby> 进化成魔王后持有的究极技能之一 <ruby><rt></rt>智慧之王<rp>（</rp><rt>拉斐尔</rt><rp>）</rp></ruby> ，拉斐尔具有接管主角意识并代打的能力，这很像使用本项目来帮助我们完成一些重复繁琐的流程。~~所以说本项目也可以帮助你成为萌王？(误)~~
+本项目的命名取自手游[《明日方舟》](https://ak.hypergryph.com/index)中代理作战 <ruby><rt></rt>PRTS<rp>（</rp><rt>Priestess</rt><rp>）</rp></ruby> 也是在游戏中与你约定在文明的尽头重逢的 <ruby><rt></rt>Priestess<rp>（</rp><rt>普瑞赛斯</rt><rp>）</rp></ruby> ，普瑞赛斯具有接管博士指挥代打的能力，这很像使用本项目来帮助我们完成一些重复繁琐的流程。~~别人的老婆漏气，我的老婆漏怪。~~
 
 
 ## 简介
-RaphaelScriptHelper (拉斐尔脚本助手/拉斐尔模块) 是一个基于openCV图像处理、OCR、ADB等技术的Python框架，可以让脚本编写者在短时间内编写出一个实用的游戏脚本，适用于可以支持脚本运行的各种系统及模拟器，支持诸如识图、点击、按键、滑动、文字识别、随机操作等功能。一个实用的例子是几行代码编写一个简单的明日方舟日常刷图脚本（见演示视频）。
+Eyes Of Priestess (普瑞赛斯之眼) 是一个基于openCV图像处理、OCR、ADB等技术的Python框架，可以让脚本编写者在短时间内编写出一个实用的游戏脚本，适用于可以支持脚本运行的各种系统及模拟器，支持诸如识图、点击、按键、滑动、文字识别、随机操作等功能。一个实用的例子是几行代码编写一个简单的明日方舟日常刷图脚本（后续会更新演示视频）。
 
 > 请注意：请仔细阅读各脚本最上方的注释说明再使用。
 
@@ -35,12 +35,12 @@ numpy=1.19.5
 opencv-python=4.5.1.48
 ```
 
-ADB套件请在[这里](https://pan.baidu.com/s/15dpjviyIHezaT56knux2xQ?pwd=mr5p)下载并解压放置到脚本框架根目录
+如ADB套件出现问题请在[这里](https://pan.baidu.com/s/15dpjviyIHezaT56knux2xQ?pwd=mr5p)下载并解压放置到脚本框架根目录
 
 ## 快速上手
-使用一行代码来引入 RaphaelScriptHelper
+使用一行代码来引入 Eyes Of Priestess
 ```python
-import RaphaelScriptHelper as rsh
+import Eyes Of Priestess as rsh
 ```
 使用一至两行代码来指定脚本运行的设备
 ```python
