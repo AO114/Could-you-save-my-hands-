@@ -14,7 +14,7 @@
 > 请注意：使用脚本会在一定程度上影响游戏体验，请根据自身需求使用。
 
 
-本项目的命名取自手游[《明日方舟》](https://ak.hypergryph.com/index)中代理作战 <ruby><rt></rt>PRTS<rp>（</rp><rt>Priestess</rt><rp>）</rp></ruby> 也是在游戏中第八章遇见的 <ruby><rt></rt>Priestess<rp>（</rp><rt>普瑞赛斯</rt><rp>）</rp></ruby> ，普瑞赛斯具有接管博士指挥代打的能力，这很像使用本项目来帮助我们完成一些重复繁琐的流程。~~撒，让我们在文明的尽头再次重逢吧。~~
+本项目的命名取自手游[<ruby><rt></rt>Arknights<rp>（</rp><rt>明日方舟</rt><rp>）</rp></ruby>](https://ak.hypergryph.com/index)中代理作战 <ruby><rt></rt>PRTS<rp>（</rp><rt>Priestess</rt><rp>）</rp></ruby> 也是在游戏中第八章遇见的 <ruby><rt></rt>Priestess<rp>（</rp><rt>普瑞赛斯</rt><rp>）</rp></ruby> ，普瑞赛斯具有接管博士指挥代理作战的能力，这很像使用本项目来帮助我们完成一些重复繁琐的流程。~~撒，让我们在文明的尽头再次重逢吧。~~
 
 
 ## 简介
