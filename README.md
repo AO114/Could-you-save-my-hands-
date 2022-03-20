@@ -51,7 +51,7 @@ rsh.deviceID = "安卓设备ID" #如使用安卓设备，请填写
 ```python
 rsh.touch(pos)
 ```
-使用一行代码来模拟点击屏幕上指定区域，先使用[选择工具](https://github.com/hanmin0822/RaphaelScriptHelper/blob/master/FunctionDoc.md#%E6%A0%87%E7%82%B9%E6%88%AA%E5%8F%96%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)来指定区域并保存，方便后续识别，会自动在识别区域内任意点、随机时长（防作弊检测）来点击一次
+使用一行代码来模拟点击屏幕上指定区域，先使选择工具来指定区域并保存，方便后续识别，会自动在识别区域内任意点、随机时长（防作弊检测）来点击一次
 ```python
 rsh.find_pic_touch("./test.png")
 ```
